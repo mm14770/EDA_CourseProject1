@@ -1,7 +1,7 @@
 ## Coursera - Exploratory Data Analysis
 ## Project Course #1
 
-# By Marc-Michel Isabelle
+### By Marc-Michel Isabelle
 
 This repository contains the files required for the Course Project #1.
 
