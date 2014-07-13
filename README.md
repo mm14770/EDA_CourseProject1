@@ -1,5 +1,5 @@
-## Coursera - Exploratory Data Analysis
-## Project Course #1
+### Coursera - Exploratory Data Analysis
+### Project Course #1
 
 This repository contains the files required for the Course Project #1.
 
